@@ -1,4 +1,4 @@
-#Playtesting
+#Testing
 
 fields = ['Astronomy', 'Physics', 'Biology', "Anthropology", "Political Science", "Economics"]
 arts = ['Theatre', 'Dance', 'Music', 'Opera']
